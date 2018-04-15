@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OreoMod",
+  "name": "OreoMod",
+  "description": "Simple mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DrOreo002"],
+  "credits": "Simple mod made by DrOreo002",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
